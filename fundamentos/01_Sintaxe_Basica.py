@@ -1,5 +1,4 @@
 """"
-Exemplo simples de script em Python
 Demonstra a sintaxe básica de Python, incluindo comentários, variáveis e impressão de saída.
 Autor: João
 """"
